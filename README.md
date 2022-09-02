@@ -52,7 +52,7 @@ yarn add html-webpack-plugin
 yarn babel src/index.js --out-file dist/bundle.js
 ```
 
-Ataulizar script:
+Atualizar script:
 ```
 yarn webpack
 ```
