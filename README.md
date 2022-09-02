@@ -56,3 +56,14 @@ Atualizar script:
 ```
 yarn webpack
 ```
+
+Webpack Dev Mode:
+```
+yarn webpack serve
+```
+
+```
+yarn add cross-env -D
+```
+
+
