@@ -43,6 +43,7 @@ Instalar webpack:
 ```
 yarn add webpack
 yarn add webpack cli
+yarn add html-webpack-plugin
 ```
 
 ## ⚙️ Commands
@@ -51,6 +52,7 @@ yarn add webpack cli
 yarn babel src/index.js --out-file dist/bundle.js
 ```
 
+Ataulizar script:
 ```
 yarn webpack
 ```
