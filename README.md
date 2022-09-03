@@ -46,6 +46,12 @@ yarn add webpack cli
 yarn add html-webpack-plugin
 ```
 
+Instalar styles and css pack:
+```
+yarn add style-loader
+yarn add css-loader
+```
+
 ## ⚙️ Commands
 
 ```
