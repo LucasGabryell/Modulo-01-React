@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "DOM.Iterable", "esnext"], //import from this library
+    "jsx": "react-jsx", //Entender que esta sendo usado Jsx
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "allowJs": true, // permite componentes e arquivos JavaScript e TypeScript
+    "noEmit": true,
+    "isolatedModules": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true, //Modo de lidar com erros em JavaScript
+    "skipLibCheck": true
+  },
+  "include": ["src"] //Onde o codigo da aplicação	vai estar
+}
